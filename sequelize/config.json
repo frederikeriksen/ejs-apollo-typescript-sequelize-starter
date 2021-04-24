@@ -1,0 +1,38 @@
+{
+    "development": {
+        "username": "",
+        "password": "",
+        "database": "exampledb",
+        "host": "localhost",
+        "dialect": "mysql",
+        "dialectOptions": {
+            "supportBigNumbers": true,
+            "decimalNumbers": true
+        },
+        "operatorsAliases": false
+    },
+    "staging": {
+        "username": "",
+        "password": "",
+        "database": "exampledb",
+        "host": "",
+        "dialect": "mysql",
+        "dialectOptions": {
+            "supportBigNumbers": true,
+            "decimalNumbers": true
+        },
+        "operatorsAliases": false
+    },
+    "production": {
+        "username": "",
+        "password": "",
+        "database": "exampledb",
+        "host": "",
+        "dialect": "mysql",
+        "dialectOptions": {
+            "supportBigNumbers": true,
+            "decimalNumbers": true
+        },
+        "operatorsAliases": false
+    }
+}
